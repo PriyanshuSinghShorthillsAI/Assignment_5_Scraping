@@ -41,6 +41,6 @@ Automate the extraction, storage, and organization of US Federal District court 
 ### Usage
 1. Clone the repository and install dependencies:
    ```bash
-   git clone https://github.com/PriyanshuSinghShorthillsAI/File_extraction2.py
+   git clone https://github.com/PriyanshuSinghShorthillsAI/Assignment_5_Scraping
    cd File_extraction2.py
    pip install -r requirements.txt
